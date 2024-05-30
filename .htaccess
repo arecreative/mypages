@@ -18,7 +18,7 @@ RewriteRule . /mypages/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "C:\xampp\htdocs\mypages/wp-content/uploads\simply-static\2fd5c99f5739a1fd20b3e0d6378273d0-debug.txt">
+<Files "C:\xampp\htdocs\mypages/wp-content/uploads\simply-static\e14d941b0e1d1373195b64300a5f8d26-debug.txt">
 require all denied
 require host localhost
 </Files>
