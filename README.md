@@ -1,2 +1,2 @@
 # mypages
-You must to know
+You must know
